@@ -1,6 +1,6 @@
 #Ping pong
 
-https://www.codeship.io/projects/450bf610-29f1-0131-3219-06c87866fd6e/status
+![Status](https://www.codeship.io/projects/450bf610-29f1-0131-3219-06c87866fd6e/status "Status")
 
 Ejemplo basico de desarrollo guiado por pruebas en nodejs
 - Pruebas con Mocha
